@@ -1,5 +1,5 @@
-# sockforward
-------
+#sockforward
+
 _sockforward.py_ tunnels specified port to another host/port. 
 
 [+] Supports TCP _(HTTP/HTTPS/FTP/SSH/etc.)_ protocols and uses pure python socket implementation.

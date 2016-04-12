@@ -32,7 +32,5 @@ Notes
 -----
 _Author: Saida Mussakhojayeva_
 
-_Feedback: saida.mussakhojayeva@nu.edu.kz_
-
 _runs and tested on python 2.7_
 
